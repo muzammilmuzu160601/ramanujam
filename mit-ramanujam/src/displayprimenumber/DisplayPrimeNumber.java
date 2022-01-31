@@ -1,5 +1,5 @@
 package displayprimenumber;
-
+// you must improve .........
 public class DisplayPrimeNumber {
 
 	public static void main(String[] args) {
